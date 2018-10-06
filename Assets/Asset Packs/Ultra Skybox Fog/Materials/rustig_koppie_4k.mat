@@ -30,8 +30,8 @@ Material:
     - <noninit>: 0
     - _Exposure: 0.73
     - _FogBottom: 1
-    - _FogEnd: 0.087
-    - _FogIntens: 0.43
+    - _FogEnd: 0.114
+    - _FogIntens: 0.88
     - _FogStart: 0
     - _MieIntens: 0.69
     - _MieSize: 1

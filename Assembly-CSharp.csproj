@@ -201,6 +201,7 @@
      <Compile Include="Assets\Asset Packs\Virtual Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
      <Compile Include="Assets\Asset Packs\Virtual Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
      <Compile Include="Assets\Asset Packs\Virtual Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
+     <Compile Include="Assets\MoveCamera.cs" />
      <Compile Include="Assets\Scripts\ApplicationSet.cs" />
      <Compile Include="Assets\Scripts\CollisionHandler.cs" />
      <Compile Include="Assets\Scripts\Enemy.cs" />
@@ -211,6 +212,7 @@
      <Compile Include="Assets\Scripts\ScreneLoader.cs" />
      <Compile Include="Assets\Scripts\SelfDestructor.cs" />
      <Compile Include="Assets\Scripts\TerrainHitEffect.cs" />
+     <Compile Include="Assets\Scripts\TrackTileGenerator.cs" />
      <None Include="Assets\Asset Packs\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Asset Packs\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
      <None Include="Assets\Asset Packs\JMO Assets\WarFX\Shaders\WFX_S AlphaBlend Scroll.shader" />
